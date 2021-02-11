@@ -1,0 +1,4 @@
+# De 17 korna
+Åren gick och bonden blev gammal. När han så lämnade denna jord ärvde hans tre söner den gamles tillgångar. Det hade nu inte gått så bra genom åren (han kanske had varit för givmild), så allt han efterlämnade var 17 kor. I testamentet uttryckte han önskemål om hur dessa skulle fördelas mellan sönerna på ett udda sätt: "Min äldsta son skall ärva hälften, mellansonen en tredjedel och den yngste en niondel av korna." 
+
+Det uppstod så en ganska underlig situation eftersom man naturligtvis inte ville dela något djur mitt itu. Samtidigt ville sönerna i möjligaste mån följa faderns sista önskemål. De beslöt sig för att söka upp grannen som också var bonde och hade flera kor, och som dessutom var känd för att vara en klok man. Denne kliade sig i skägget när han fick höra problemet, men det dröjde inte länge förrän han fann på råd. Hur löstes det hela?
