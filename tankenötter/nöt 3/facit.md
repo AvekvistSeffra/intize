@@ -1,0 +1,3 @@
+# Schackspelet och riskornen
+## Svar
+Man kan jämföra två talserier som uppstår när man försöker lösa problemet. Den första står för antalet riskorn på respektive ruta: 1, 2, 4, 8, 16, 32, 64, 128... Den andra talserien får man om man räknar ihop riskornen ruta för ruta: 1, 3, 7, 15, 31, 63, 127, 255... Man ser snart att ett tal på en viss plats i den andra talserien är 1 mindre än ett tal som står en position längre fram i den första talserien. Sålunda är det sammanlagda antalet riskorn efter 7 rutor 127 st., medan den 8:e rutan ensam innehåller 1 mer, dvs 128 riskorn. Därför blir det slutgiltiga antalet korn 1 mindre än antalet korn på en tänkt 65:e ruta, alltså 2^64 - 1. (Eftersom 1, 2, 4, 8... lika gärna kan skrivas 2^0, 2^1, 2^2, 2^3...)
