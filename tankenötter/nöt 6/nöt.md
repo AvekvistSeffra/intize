@@ -1,0 +1,6 @@
+# Den långsamma kapplöpningen
+En rik arabisk man hade en speciell idé om hur arvet skulle fördelas mellan hans två söner. I testamentet som lästes upp efter mannens död stod det: "Härmed utlyser jag en tävling mellan mina två söner i form av en kapplöpning till Mecca. Den son vars kamel kommer sist till staden får ärva hela förmögenheten!"
+
+De två unga männen inledde genast tävlandet. Deras by låg inte särskilt långt ifrån Mecca, men eftersom ingen ville vinna, det gällde ju att få kamelen sist, drog det hela ut väldigt på tiden. Efter flera dagars sölande började de två bröderna misströsta om att någonsin kunna lägga beslag på arvet, men bägge var envisa och ville verkligen inte ge upp gentemot den andre. 
+
+Så en dag kom en vis man vandrande i öknen och möttes av den märkliga synen av två män som sida vid sida masade sig fram oändligt långsamt på sina kameler. Först tänkte han att de två bröderna måste vara tokiga, som red så långsamt i hettan. Den vise mannen stannade dock av nyfikenhet upp och frågade vad detta underliga beteende berodde på. Bröderna förklarade dilemmat för mannen, som omedelbart brast i skratt och bad de två tävlande stiga ner från djuren. När de gjort så, sade mannen bara två ord till dem, varpå de genast flög upp på kamelerna igen och red i sporrstreck mot den heliga staden. Vilka två ord förändrade läget så drastiskt?
